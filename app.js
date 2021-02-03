@@ -10,4 +10,4 @@ document.querySelector('li').style.color = 'red'
 
 let items = document.getElementsByClassName('collection-item');
 console.log(items)
-items[3].style.color = 'red'
+items[3].style.color = 'blue'
